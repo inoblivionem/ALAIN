@@ -1,4 +1,4 @@
-# ALAIN-A
+# ALAIN
  ALgorithme d'Affectation des INstitutions
 
 
