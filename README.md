@@ -1,17 +1,9 @@
 # ALAIN-A
- ALgorithme d'Affection des INstitutions
-
- ---------------------------------------------------- 
-|           Bienvenue dans ALAIN-A, notre             |
-|              algorithme d'association               |
-|        d'association de musées et d'artistes        |
- ---------------------------------------------------- 
-
-
+ ALgorithme d'Affectation des INstitutions
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                   p r é r e q u i s
+                   prérequis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Afin de fonctionner correctement, le programme nécessite
@@ -32,7 +24,7 @@ et tous les musées doivent être classés par chaque artiste.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                u t i l i s a t i o n
+                utilisation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. Formatez la liste de musées et la liste d'artistes
 comme présenté précedemment. Les deux listes fournies
