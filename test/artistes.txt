@@ -1,0 +1,7 @@
+id,nom,prenom,preferences
+a0,Kahlo,Frida,m5 m2 m1 m3 m4 m0
+a1,Lempicka,Tamara,m1 m3 m5 m4 m2 m0
+a2,Claudel,Camille,m1 m2 m0 m3 m4 m5
+a3,Bourgeois,Louise,m3 m4 m2 m1 m0 m5
+a4,Morisot,Berthe,m1 m4 m2 m3 m0 m5
+a5,Bonheur,Rosa,m5 m3 m2 m1 m4 m0

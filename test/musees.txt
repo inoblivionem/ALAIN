@@ -1,0 +1,7 @@
+id,nom,ville,preferences
+m0,Musée des Beaux-Arts,Tours,a5 a4 a2 a3 a1 a0
+m1,Musée du Compagnonnage,Tours,a1 a0 a3 a4 a2 a5
+m2,Musée de la typographie,Tours,a2 a5 a0 a3 a1 a4
+m3,Muséum d'Histoire Naturelle,Tours,a3 a2 a1 a4 a5 a0
+m4,Château de Tours,Tours,a1 a2 a0 a4 a5 a3
+m5,Musée Hôtel Morin,Amboise,a5 a2 a0 a1 a4 a3
